@@ -15,10 +15,11 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 ## 📫 Get in Touch
 - **Email:** moreritesh028@gmail.com
-- **Twitter:** [@johnsmith](https://twitter.com/johnsmith)
-- **LinkedIn:** [John Smith](https://www.linkedin.com/in/johnsmith/)
+
 
 ## 🏆 Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
