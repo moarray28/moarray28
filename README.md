@@ -12,16 +12,12 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 ## Skills
 
-
+s
 ## 📫 Get in Touch
 - **Email:** moreritesh028@gmail.com
 
 
-## 🏆 Badges
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
+ 
 
 <!--
 **moarray28/moarray28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
