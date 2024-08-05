@@ -24,6 +24,13 @@ s
 
 Here are some ideas to get you started:
 
+
+- ![JavaScript](./assets/logos/javascript.svg)
+- ![TypeScript](./assets/logos/typescript.svg)
+- ![Python](./assets/logos/python.svg)
+- ![React](./assets/logos/react.svg)
+- ![Node.js](./assets/logos/nodejs.svg)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
