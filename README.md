@@ -11,7 +11,16 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 
 ## Skills
-https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
+
+
+## 📫 Get in Touch
+- **Email:** moreritesh028@gmail.com
+- **Twitter:** [@johnsmith](https://twitter.com/johnsmith)
+- **LinkedIn:** [John Smith](https://www.linkedin.com/in/johnsmith/)
+
+## 🏆 Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 <!--
 **moarray28/moarray28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
