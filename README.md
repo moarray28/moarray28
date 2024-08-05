@@ -1,13 +1,17 @@
 ##  I'm Ritesh More👋
-Hello there, Nice to Meet You 
+Hello there, Nice to meet you.
+Welcome to my GitHub profile!
+
 I'm a software engineer with a passion for open source and web development.
 I enjoy working with JavaScript and I love to put my creative ideas onto the websites 
-. Welcome to my GitHub profile!
 
 
 ## 🚀 Current Focus
-- Building a new portfolio website using React and TypeScript.
-- Contributing to the open source project [Project Name].
+- Building a new portfolio website using React JS and Tailwind CSS.
+
+
+## Skills
+https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
 
 <!--
 **moarray28/moarray28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
