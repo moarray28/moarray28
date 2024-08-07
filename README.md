@@ -12,6 +12,7 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 ## Skills
 
+<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/bootstrap.svg" alt="Bootstrap" width=90>
 React JS, Javascript, HTML, CSS, Java , MongoDB , NodeJS, Express JS , Tailiwind CSS , Bootstrap 
 
 
