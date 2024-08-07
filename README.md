@@ -19,7 +19,7 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 
 ## 📫 Get in Touch
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/instagram.svg" alt="Instagram" link="https://www.instagram.com/moarray/" title="Instagram" width=70>
+- ** <img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/instagram-icon.svg" alt="Instagram" link="https://www.instagram.com/moarray/" title="Instagram" width=70> **
 
 - **Email:** moreritesh028@gmail.com
 
