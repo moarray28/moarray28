@@ -1,4 +1,4 @@
-##  I'm Ritesh More👋
+# I'm Ritesh More👋
 Hello there, Nice to meet you.
 Welcome to my GitHub profile!
 
@@ -11,23 +11,16 @@ I enjoy working with JavaScript and I love to put my creative ideas onto the web
 
 
 ## Skills
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/logo_dark.svg" alt="React JS" title="React JS" width=70 style="background:white">
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/javascript.svg" alt="Javascript" title="Javascript" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/java-icon.svg" alt="Java" title="Java" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/html.svg" alt="HTML" title="HTML" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/css.svg" alt="CSS" title="CSS" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/nodejs.svg" alt="Node JS" title="Node JS" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/express.svg" alt="Express JS" title="Express JS" width=70>
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width=70>
 
-<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width=70>
+<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/logo_dark.svg" alt="React JS" title="React JS" width=70 background="white"><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/javascript.svg" alt="Javascript" title="Javascript" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/java-icon.svg" alt="Java" title="Java" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/html.svg" alt="HTML" title="HTML" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/css.svg" alt="CSS" title="CSS" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/nodejs.svg" alt="Node JS" title="Node JS" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/express.svg" alt="Express JS" title="Express JS"  width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width=70><img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width=70>
 
-React JS, Javascript, HTML, CSS, Java , MongoDB , NodeJS, Express JS , Tailiwind CSS , Bootstrap 
 
 
 
 
 ## 📫 Get in Touch
+<img src="https://raw.githubusercontent.com/moarray28/moarray28/main/images/instagram.svg" alt="Instagram" link="https://www.instagram.com/moarray/" title="Instagram" width=70>
+
 - **Email:** moreritesh028@gmail.com
 
 
