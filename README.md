@@ -1,5 +1,5 @@
 # I'm Ritesh More👋
-Hello there, Nice to meet you.
+Nice to meet you.
 Welcome to my GitHub profile!
 
 I'm a software engineer with a passion for open source and web development.
