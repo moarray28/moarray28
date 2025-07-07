@@ -89,7 +89,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moarray28&" alt="moarray28" />
 </p>
 
-<!-- Added LeetCode stats -->
-<p>
-   ![LeetCode Stats](https://leetcard.jacoblin.cool/morray28?theme=catppuccinMocha&font=Roboto%20Mono)
-</p>
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/morray28?theme=light&font=Roboto%20Mono)
